@@ -24,7 +24,7 @@
     "@ng-bootstrap/ng-bootstrap": "^13.0.0",
     "@swimlane/ngx-datatable": "^13.1.0",
     "aws-amplify": "^5.3.21",
-    "aws-amplify-angular": "^6.0.26",
+    "aws-amplify-angular": "^6.0.60",
     "core-js": "^2.6.11",
     "eslint": "^9.0.0",
     "ngx-facebook": "*",
