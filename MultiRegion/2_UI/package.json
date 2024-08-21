@@ -31,7 +31,7 @@
     "ngx-toasta": "^0.1.0",
     "rxjs": "^6.3.2",
     "rxjs-compat": "^6.3.2",
-    "zone.js": "*"
+    "zone.js": "0.14.8"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.1.3",
